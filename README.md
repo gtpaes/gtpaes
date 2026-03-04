@@ -65,16 +65,17 @@ Buscando **oportunidade de estágio em desenvolvimento web** para aplicar conhec
 ## 🌐 Portfolio
 
 👉 **Acesse:**  
-🔗 [https://SEU-LINK-DO-PORTFOLIO.vercel.app](https://portfoliogt.vercel.app/)
+🔗 [https://meu.portfoilio](https://portfoliogt.vercel.app/)
 
 ---
 
 ## 📫 Contato
 
-- LinkedIn: [https://linkedin.com/in/SEU-LINK](https://www.linkedin.com/in/gustavo-paes-de-souza/)
+- LinkedIn: [https://linkedin.com](https://www.linkedin.com/in/gustavo-paes-de-souza/)
 - GitHub: [https://github.com/gtpaes](https://github.com/gtpaes)
 
 ---
 
 ⭐ Sempre aprendendo, sempre construindo.
+
 
