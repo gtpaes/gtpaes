@@ -21,9 +21,9 @@ Construo sistemas com **Java e Spring Boot** e integro **IA (LLMs)** em aplicaç
 
 | Projeto | O que é |
 |---|---|
-| [ZK-sistema](link) | ERP web para loja de surf |
-| [financeiro](link) | Finanças + chatbot de IA |
-| [Portfolio](link) | Meu portfólio |
+| [ZK-sistema](https://github.com/gtpaes/ZK-sistema) | ERP web para loja de surf |
+| [FinControl](https://github.com/gtpaes/FinControl) | Finanças + chatbot de IA |
+
 
 ## Certificações
 
