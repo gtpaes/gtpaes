@@ -1,81 +1,39 @@
-# 👋 Olá, eu sou o Gustavo Paes
+# Olá, eu sou o Gustavo 👋
 
-🎓 Estudante de **Análise e Desenvolvimento de Sistemas — UERJ**  
-💻 Desenvolvedor **Full Stack em formação**  
-⚡ Apaixonado por criar experiências web modernas, interativas e funcionais.
+Estudante de **Análise e Desenvolvimento de Sistemas** (IBMR, conclusão prevista em 06/2028), no Rio de Janeiro.
+Construo sistemas com **Java e Spring Boot** e integro **IA (LLMs)** em aplicações reais.
 
-Atualmente evoluindo do front-end para o ecossistema full stack, desenvolvendo projetos reais com autenticação, APIs e interfaces imersivas.
+## O que estou construindo
 
----
+- 🤖 **Financeiro:** app web full stack com backend em Java/Spring Boot e um chatbot de IA (API do Claude) que ajuda clientes a entender gastos e decidir como gastar menos.
+- 🏄 **ZK SurfHouse ERP:** sistema de gestão (vendas, conserto de pranchas, aulas, financeiro e estoque) que uma loja de surf usou em produção por 3 meses.
+- 🧠 **Agentes de IA** para automatizar processos (em desenvolvimento).
 
-## 🚀 Objetivo
+## Stack
 
-Buscando **oportunidade de estágio em desenvolvimento web** para aplicar conhecimentos práticos, aprender com times reais e evoluir como desenvolvedor.
+**Backend:** Java · Spring Boot · REST APIs · Node.js
+**IA:** Claude API · Prompt Engineering · Chatbots · Agentes
+**Dados:** MongoDB
+**Frontend:** React · JavaScript · HTML · CSS · GSAP
+**Ferramentas:** Git · GitHub
 
----
+## Projetos em destaque
 
-## 🛠️ Tecnologias & Ferramentas
+| Projeto | O que é |
+|---|---|
+| [ZK-sistema](link) | ERP web para loja de surf |
+| [financeiro](link) | Finanças + chatbot de IA |
+| [Portfolio](link) | Meu portfólio |
 
-### 🌐 Front-end
-- HTML5
-- CSS3 (Responsivo & animações)
-- JavaScript (DOM, lógica e interatividade)
-- GSAP & ScrollTrigger
-- Three.js (experiências 3D)
+## Certificações
 
-### ⚙️ Back-end
-- Node.js
-- Express
-- APIs REST
-- JWT Authentication
-- MongoDB & Mongoose
+- Fundamentos da IA Moderna: ML, LLMs, IA Generativa e Agentes (DIO, 2h)
+- Boas-vindas ao Bootcamp Itaú: Java com Inteligência Artificial (DIO, 1h)
 
-### 🔧 Ferramentas
-- Git & GitHub
-- Vercel (Deploy)
-- VS Code
-- Consumo de APIs reais
+## Estudando agora
 
----
+Python e agentes de IA. Inglês técnico (leitura boa, conversação em evolução).
 
-## 📈 Atualmente Aprendendo
+## Contato
 
-- Arquitetura Full Stack
-- Boas práticas de código
-- Performance Web
-- UX/UI moderna
-- Integração Front + Backend
-- Estruturação de projetos reais
-
----
-
-## 💼 Projetos em Destaque
-
-🔹 **Portfolio Interativo**
-> Site moderno com animações avançadas, partículas 3D e experiências imersivas usando Three.js e GSAP.
-
-🔹 **Sistema Financeiro Full Stack**
-> Aplicação completa com login seguro, autenticação JWT e CRUD financeiro com cálculo automático de saldo.
-
-🔹 **Lading Page MoveRio**
-> Projeto prático focado em performance, interatividade e desenvolvimento front-end moderno.
-
----
-
-## 🌐 Portfolio
-
-👉 **Acesse:**  
-🔗 [https://meu.portfoilio](https://portfoliogt.vercel.app/)
-
----
-
-## 📫 Contato
-
-- LinkedIn: [https://linkedin.com](https://www.linkedin.com/in/gustavo-paes-de-souza/)
-- GitHub: [https://github.com/gtpaes](https://github.com/gtpaes)
-
----
-
-⭐ Sempre aprendendo, sempre construindo.
-
-
+[LinkedIn](https://www.linkedin.com/in/gustavo-paes-de-souza/) · gtpaesdev@gmail.com
