@@ -5,7 +5,7 @@ Construo sistemas com **Java e Spring Boot** e integro **IA (LLMs)** em aplicaç
 
 ## O que estou construindo
 
-- 🤖 **Financeiro:** app web full stack com backend em Java/Spring Boot e um chatbot de IA (API do Claude) que ajuda clientes a entender gastos e decidir como gastar menos.
+- 🤖 **FinControl:** app web full stack com backend em Java/Spring Boot e um chatbot de IA (API do Claude) que ajuda clientes a entender gastos e decidir como gastar menos.
 - 🏄 **ZK SurfHouse ERP:** sistema de gestão (vendas, conserto de pranchas, aulas, financeiro e estoque) que uma loja de surf usou em produção por 3 meses.
 - 🧠 **Agentes de IA** para automatizar processos (em desenvolvimento).
 
