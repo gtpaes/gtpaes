@@ -12,9 +12,13 @@ Construo sistemas com **Java e Spring Boot** e integro **IA (LLMs)** em aplicaç
 ## Stack
 
 **Backend:** Java · Spring Boot · REST APIs · Node.js
+
 **IA:** Claude API · Prompt Engineering · Chatbots · Agentes
+
 **Dados:** MongoDB
+
 **Frontend:** React · JavaScript · HTML · CSS · GSAP
+
 **Ferramentas:** Git · GitHub
 
 ## Projetos em destaque
